@@ -1,0 +1,9 @@
+{
+    "blacklistPatterns": [
+      "UNION SELECT",
+      "DROP TABLE",
+      "<script>",
+      "OR 1=1",
+      "admin' --"
+    ]
+  }
